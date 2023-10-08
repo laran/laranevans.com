@@ -1,0 +1,6 @@
+baseURL: https://laranevans.com/
+languageCode: en-us
+title: laranevans.com
+module:
+    imports:
+        - path: github.com/imfing/hextra
